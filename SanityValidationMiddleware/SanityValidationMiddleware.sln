@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanityValidationMiddleware", "SanityValidationMiddleware\SanityValidationMiddleware.csproj", "{FC850E80-E5AA-438B-B55D-722CFBAABFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC850E80-E5AA-438B-B55D-722CFBAABFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC850E80-E5AA-438B-B55D-722CFBAABFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC850E80-E5AA-438B-B55D-722CFBAABFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC850E80-E5AA-438B-B55D-722CFBAABFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
